@@ -1,2 +1,2 @@
 # Tripadvisor_reviews
-TA reviews analysis (Exploratory + Apriori Algorithms)
+Exploratory analysis on a Tripadvisor data set from Europe as part of Data Science course project. Major part of the project consists of exploratory analysis, mainly consisting of data understanding, preparation & visualization (enabling to present meaningfull insights). Later, some algorithms are applied also (Apriori, RFM, Similarity/Dissimilarity matrixes) to support marketing recommendations. The task description is to be found inside jupyter notebook file. Please note that despite a group project, I did this project entirely on my own except Business understanding section at the PDF report. 
